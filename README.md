@@ -27,5 +27,3 @@ blockchain aujourd'hui** :
 ### Liens vers les atomes disponibles :
 
 Pro tip : Ctrl+F le sujet voulu
-
-
