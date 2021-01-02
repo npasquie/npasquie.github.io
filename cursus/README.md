@@ -5,7 +5,7 @@ suggestions à [Nicolas Pasquier](
 https://www.messenger.com/t/nicolas.pasquier.319).
 
 Retrouvez une description de cette pédagogie expérimentale [ici](
-./pdf/Proposition%20pédagogique.pdf).
+pdfroposition pédagogique.pdf).
 
 ## Guide du cursus
 
@@ -22,7 +22,7 @@ certification sur la blockchain.
 Voici le cheminement suggéré pour la compétence **Comprendre les enjeux de la
 blockchain aujourd'hui** :
 
-![arbre du cursus](./img/arbreDeCursus.png)
+![arbre du cursus](imgrbreDeCursus.png)
 
 ### Liens vers les atomes disponibles :
 
